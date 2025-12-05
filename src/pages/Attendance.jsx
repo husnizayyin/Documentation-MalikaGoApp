@@ -33,7 +33,7 @@ const Attendance = () => {
               </li>
               <li className="flex gap-4">
                 <span className="flex-shrink-0 w-8 h-8 rounded-full bg-yellow-500/10 text-yellow-500 flex items-center justify-center font-bold border border-yellow-500/20">4</span>
-                <span>Tekan tombol <strong className="text-white">Clock In</strong> (Masuk) atau <strong className="text-white">Clock Out</strong> (Pulang) untuk menyimpan absensi.</span>
+                <span>Tekan tombol <strong className="text-white">Upload Photo</strong>  untuk melakukan absensi.</span>
               </li>
             </ol>
           </div>
