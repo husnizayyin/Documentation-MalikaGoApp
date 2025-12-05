@@ -3,7 +3,7 @@ import PageNavigation from '../components/PageNavigation';
 
 const Attendance = () => {
   return (
-    <div className="prose prose-invert max-w-none">
+    <div className="prose max-w-none">
       <div className="flex flex-col xl:flex-row gap-12 items-start">
         <div className="flex-1">
           <h1 className="text-4xl font-bold bg-gradient-to-r from-yellow-200 via-yellow-400 to-yellow-600 bg-clip-text text-transparent mb-6">

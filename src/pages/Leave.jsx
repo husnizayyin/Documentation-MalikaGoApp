@@ -3,7 +3,7 @@ import PageNavigation from '../components/PageNavigation';
 
 const Leave = () => {
   return (
-    <div className="prose prose-invert max-w-none">
+    <div className="prose max-w-none">
       <div className="max-w-5xl mx-auto">
         
         {/* Header Section */}
