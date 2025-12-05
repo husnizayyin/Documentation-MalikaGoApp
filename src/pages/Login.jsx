@@ -26,7 +26,7 @@ const Login = () => {
               </li>
               <li className="flex gap-4">
                 <span className="flex-shrink-0 w-8 h-8 rounded-full bg-yellow-500/10 text-yellow-500 flex items-center justify-center font-bold border border-yellow-500/20">2</span>
-                <span>Masukkan <strong>Email</strong> atau <strong>Nomor HP</strong> yang terdaftar.</span>
+                <span>Masukkan <strong>Email</strong> yang terdaftar.</span>
               </li>
               <li className="flex gap-4">
                 <span className="flex-shrink-0 w-8 h-8 rounded-full bg-yellow-500/10 text-yellow-500 flex items-center justify-center font-bold border border-yellow-500/20">3</span>
