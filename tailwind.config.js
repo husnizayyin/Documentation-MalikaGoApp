@@ -7,14 +7,14 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: '#111111', // Softer Dark (Payload Style)
-        surface: '#1c1c1c',    // Slightly lighter for cards/surfaces
-        border: '#333333',     // Subtle borders
+        background: 'var(--color-bg)',
+        surface: 'var(--color-surface)',
+        border: 'var(--color-border)',
         text: {
-          primary: '#ffffff',  // White text
-          secondary: '#a1a1a1', // Muted text
+          primary: 'var(--color-text-primary)',
+          secondary: 'var(--color-text-secondary)',
         },
-        accent: '#eab308', // Yellow accent
+        accent: 'var(--color-accent)',
       },
       typography: (theme) => ({
         DEFAULT: {

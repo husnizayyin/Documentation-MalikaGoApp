@@ -4,7 +4,7 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 const PageNavigation = ({ prev, next }) => {
   return (
-    <div className="mt-16 pt-8 border-t border-border flex flex-col sm:flex-row justify-between gap-4">
+    <div className="mt-16 pt-8 border-t border-border flex flex-col sm:flex-row justify-between gap-4 print:hidden">
       {prev ? (
         <Link 
           to={prev.path}
